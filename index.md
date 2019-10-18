@@ -130,6 +130,11 @@ por favor ponte en contacto con los organizadores (usando los datos presentados 
 
 {% endif %}
 
+<h3>Inscripción</h3>
+
+Por favor, completa el siguiente <a href="https://forms.gle/JAbA26BCTZxp8RVU7">Formulario de inscripción</a> para registrarte al taller.
+Sólo utilizaremos tus datos para comunicar novedades respecto de esta actividad.
+
 <h3>Requerimientos</h3>
 
 Las y los participantes deberían llevar una computadora portátil con conexión a Internet y un
