@@ -185,6 +185,7 @@ para más información.
 </p>
 <ol>
   <li><a href="{{ site.training_site }}/papers/science-of-learning-2015.pdf">La Ciencia del Aprendizaje (The Science of Learning)</a></li>
+  <li><a href="https://carpentries.org/files/assessment/TheCarpentries2018AnnualReport.pdf">El Informe Anual de The Carpentries</a></li>
 </ol>
 <p>
   Por favor, también lee con atención <em>un</em> episodio a elección de alguna de las lecciones de The Carpentries mencionadas debajo,
