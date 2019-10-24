@@ -216,19 +216,16 @@ para más información.
     </ul>
   </div>
 </div>
-
   
 
 <hr/>
 
-<h2 id="materials" name="materials">Material de Entrenamiento y Cronograma</h2>
+<h2 id="materials" name="materials">Material de estudio y Cronograma</h2>
 
 <p>
   Por favor, revisa <a href="{{ site.training_site }}">éste sitio</a> para obtener el material del curso y el cronograma tentativo.
 </p>
 
-
-<hr/>
 
 <!--
 
@@ -287,12 +284,11 @@ para más información.
   e.g., '2015-06-10-esu'.
 -->
 {% if page.etherpad %}
-<hr/>
 
 <p id="etherpad">
-  <strong>Etherpad:</strong> <a href="{{page.etherpad}}">{{page.etherpad}}</a>.
+  Utilizaremos el siguiente Etherpad para conversar, tomar notas, y compartir URLs y fragmentos de código.
   <br/>
-  Utilizaremos este Etherpad para conversar, tomar notas, y compartir URLs y fragmentos de código.
+  <strong>Etherpad:</strong> <a href="{{page.etherpad}}">{{page.etherpad}}</a>.
 </p>
 
 {% endif %}
@@ -307,3 +303,5 @@ para más información.
 <p>
   Luego del taller, por favor completa <a href="{{ site.instructor_post_survey }}{{ site.github.project_title }}">nuestra encuesta de finalización</a>.
 </p>
+
+<hr/>
