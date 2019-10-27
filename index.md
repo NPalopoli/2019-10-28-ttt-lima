@@ -223,7 +223,9 @@ para más información.
 <h2 id="materials" name="materials">Material de estudio y Cronograma</h2>
 
 <p>
-  Por favor, revisa <a href="{{ site.training_site }}">éste sitio</a> para obtener el material del curso y el cronograma tentativo.
+  Por favor, revisa <a href="https://npalopoli.github.io/instructor-training-es/">éste sitio</a> para obtener el material del curso y el cronograma tentativo.
+  El sitio anterior incluye algunas traducciones de la lección original en inglés, accesible en  <a href="{{ site.training_site }}">éste sitio</a>.
+  
 </p>
 
 
